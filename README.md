@@ -54,12 +54,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-_Add your screenshots here!_
-
----
-
 ## 📦 Tech Stack
 
 - **FastAPI** – blazing-fast backend API framework
